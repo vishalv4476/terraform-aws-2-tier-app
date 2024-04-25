@@ -2,9 +2,7 @@
   Implement a 2-tier architecture in AWS, Azure, or GCP using Terraform 🚀
 
 ## Architecture Diagram 
-Image :
 
-![2-tier-web-application-architecture](2tier-web-application-architecture.png)
 
 ## Objective
 In this project task, we aim to leverage infrastructure as code (IaC) best practices to create a reusable and shareable infrastructure setup. Our focus is on promoting modularity, flexibility, and maintainability.
