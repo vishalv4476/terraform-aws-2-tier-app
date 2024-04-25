@@ -1,6 +1,9 @@
 # terraform-aws-2-tier-app
   Implement a 2-tier architecture in AWS, Azure, or GCP using Terraform 🚀
 
+## Architecture Diagram 
+(https://github.com/mahupreti/Keeping-it-DRY-with-reusable-Terraform-modules-in-the-AWS-cloud/blob/main/2tier-web-application-architecture.png)
+
 ## Objective
 In this project task, we aim to leverage infrastructure as code (IaC) best practices to create a reusable and shareable infrastructure setup. Our focus is on promoting modularity, flexibility, and maintainability.
 
@@ -20,4 +23,3 @@ Keep security in mind throughout your IaC development. Ensure that your infrastr
 
 By following these guidelines, you'll create an infrastructure setup that is not only efficient but also highly adaptable and secure.
 
-Feel free to document your IaC code and any specific implementation details in your GitHub README to make it easier for others to understand and use your work.
